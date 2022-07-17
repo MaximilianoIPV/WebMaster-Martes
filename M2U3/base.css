@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	color: #000;
+	background: #332F29;
+	font-size: 100%;
+}
+
+#contenedor {
+	width: 700px;
+	background: #8FA68E;
+	/*margin-right: auto;
+	margin-left: auto;*/
+	overflow: hidden;
+}
+
+nav {
+	/*background: #CC3910;*/
+	background: #F6CF0F;
+	/*float: left;*/
+	width: 700px;
+	height: 110px;
+
+
+}
+
+ul {
+	list-style-type: none;
+
+}
+
+a {
+	/*color: #F1F2C0;*/
+	color: black;
+	text-decoration: none;
+
+}
+
+section {
+	background: #F1F2C0;
+	/*float: left;*/
+	margin: 2px 0 2px 0;
+	width: 700px;
+	padding: 10px;
+
+}
+
+aside {
+	background: #CCC59E;
+	/*float: right;*/
+	width: 700px;
+	padding: 10px;
+	/*box-sizing: border-box;*/
+}
+
+li {
+	padding: 10px;
+
+}
